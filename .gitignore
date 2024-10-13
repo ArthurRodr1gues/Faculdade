@@ -1,2 +1,7 @@
 # Ignorar todas as pastas 'videos'
 **/videos/ 
+
+*.html
+*.js
+*.css
+

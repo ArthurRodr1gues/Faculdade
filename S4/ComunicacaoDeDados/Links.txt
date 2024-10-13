@@ -1,0 +1,2 @@
+(Aula 01) Comunicação de Dados e Redes de Computadores, Sistema de Comunicação de Dados, Componentes Básicos de uma Rede de Computadores, Modelo Cliente/Servidor, Comunicação não-Hierárquica (Peer-to-Peer), Classificação das Redes e Fluxo de Dados.
+https://www.youtubeeducation.com/watch?v=J_EzlWMOCfY
