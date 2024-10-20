@@ -1,7 +1,12 @@
 # Ignorar todas as pastas 'videos'
 **/videos/ 
+videos/
 
 *.html
 *.js
 *.css
+livros/
+Livros/
+**/Livros/
+**/livros/**
 
